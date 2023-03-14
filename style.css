@@ -102,11 +102,63 @@ p{
     color: aliceblue;
 }
 
-Nachricht an @glauby
-﻿
 
 
 
 
- zum Auswählen
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 
+body {
+    width: 100%;
+}
+
+h1 {
+
+
+}
+
+p {
+    font-family: Arial, "Helvetica", sans-serif;
+    font-size: 14px;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 55 px;
+}
+
+.gallery {
+    
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: relative;
+    padding: 128px 120px 78px 120px;
+    
+}
+
+.text-wrapper {
+    margin: 0px 0px 24px;
+}
+.main-wrapper {
+  
+        
+}
+.item-1 {
+
+    
+}
+.item-2 {
+    
+}
+div.img-wrapper{
+    
+}
+img {
+   
+}
