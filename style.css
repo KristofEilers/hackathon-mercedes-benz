@@ -40,7 +40,7 @@ h2 {
 }
 
 #coupe {
-  line-height: 5rem;
+  line-height: 4rem;
 }
 .diner {
   color: white;
@@ -49,10 +49,13 @@ h2 {
   padding-top: 4rem;
   line-height: 1rem;
 }
-
+p {
+  font-size: 1.1rem;
+}
 button {
   border-radius: 1.75rem;
-  height: 0.8rem;
+  height: 1.3rem;
+  width: 6rem;
   padding: 1.14rem 1.71rem;
   background-color: white;
   color: black;
@@ -144,8 +147,10 @@ button:hover {
   color: white;
   list-style-type: none;
   position: relative;
-  margin-top: 15rem;
-  margin-left: 3rem;
+  margin-top: 15%;
+  margin-left: 10%;
+  margin-right: -8%;
+  line-height: 1rem;
 }
 
 .impressum {
